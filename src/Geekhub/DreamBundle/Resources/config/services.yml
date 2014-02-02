@@ -1,0 +1,7 @@
+parameters:
+#    geekhub_dream.example.class: Geekhub\DreamBundle\Example
+
+services:
+#    geekhub_dream.example:
+#        class: %geekhub_dream.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
